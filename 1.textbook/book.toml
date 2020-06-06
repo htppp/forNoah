@@ -1,0 +1,6 @@
+[book]
+authors = ["Hato Poppo"]
+language = "jp"
+multilingual = false
+src = "src"
+title = "textbook"
