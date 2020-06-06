@@ -1,6 +1,6 @@
  Summary
 
-[表紙](./main.md)
+[表紙](./firt.md)
 
 - [導入](./1.introduction.md)
 	- [初めの一歩](./1-1.first_step.md)
