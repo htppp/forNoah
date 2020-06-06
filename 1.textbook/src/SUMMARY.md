@@ -4,9 +4,11 @@
 
 - [導入](./1.introduction.md)
 	- [初めの一歩](./1-1.first_step.md)
+	- [7Zipのインストール](./1-2.install_7zip.md)
 	- [テキストエディタのインストール](./1-2.texteditor.md)
-	- [Pythonのインストール](./1-3.install_python.md)
+	- [Gitのインストール](./1-3.install_git.md)
 	- [Golangのインストール](./1-4.install_golang.md)
+	- [Pythonのインストール](./1-5.install_python.md)
 
 - [Hello World](./2.hello_world.md)
 	- [Cでハローワールド](./2-1.c.md)
