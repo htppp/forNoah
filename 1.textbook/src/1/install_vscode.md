@@ -24,5 +24,3 @@
 上に検索窓がありますので検索してインストールできます。覚えておきましょう。
 
 
-http://net2.system.to/pc/font.html
-http://net2.system.to/pc/cgi-bin/download.cgi?file=yutapon_coding_081.zip

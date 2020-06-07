@@ -22,8 +22,9 @@
 
 - [ローカルで動かしてみよう](./3/local.md)
 	- [コンパイルをしてみよう](./3/compile.md)
+		- [Terapad でプログラミング](./3/with_terapad.md)
+		- [Visual Studio Codeでプログラミング](./3/with_vscode.md)
 	- [インタープリタを動かしてみよう](3/interpreter.md)
-
 
 - [ブロック崩しを作ってみよう](./4/make_block_break.md)
 
