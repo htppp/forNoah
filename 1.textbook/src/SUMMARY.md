@@ -21,8 +21,14 @@
 	- [その他の言語でハローワールド](./2/other.md)
 
 - [ローカルで動かしてみよう](./3/local.md)
-	- [コンパイルをしてみよう](./3/compile.md)
+	- [プログラムとは](./3/program.md)
+	- [コンピューターとは](./3/cpu.md)
+	- [コンパイルとは](./3/compile.md)
+	- [CPUの言葉](./3/order.md)
 		- [Terapad でプログラミング](./3/with_terapad.md)
+			- [Terapadを実行](./3/with_terapad_run.md)
+			- [ファイルを保存する](./3/with_terapad_save.md)
+			- [コンパイルをやってみよう](./3/with_terapad_compile.md)
 		- [Visual Studio Codeでプログラミング](./3/with_vscode.md)
 	- [インタープリタを動かしてみよう](3/interpreter.md)
 
