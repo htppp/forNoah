@@ -8,13 +8,13 @@
 
 
 
-[実行](./with_terapad_open.md)
-[プログラム](./program.md)
-[コンパイル](./program.md)
-[CPU](./cpu.md)
-[メモリ](./with_terapad_compile.md)
-[コンパイル](./with_terapad_compile.md)
-[ソースコード](./with_terapad.md#コーディング)
-[ソースコード](./with_terapad_coding.md)
+[実行](../3/with_terapad_open.md)
+[プログラム](../3/program.md)
+[コンパイル](../3/program.md)
+[CPU](../3/cpu.md)
+[メモリ](../3/with_terapad_compile.md)
+[コンパイル](../3/with_terapad_compile.md)
+[ソースコード](../3/with_terapad.md#コーディング)
+[ソースコード](../3/with_terapad_coding.md)
 
 

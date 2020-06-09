@@ -1,6 +1,8 @@
 # Visual Studio Code のインストール
 
-インストールに難しいところはありません。
+次にVisual studio Codeをインストールしていきます。
+こちらもインストールに難しいところはありません。
+
 まず `2.soft/VSCodeSetup-x64-1.45.1.exe` を開きます。
 
 ![](./1-2-1.png)
